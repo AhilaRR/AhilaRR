@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Storm-reaker&label=Views&color=blue&style=plastic" alt="Storm-reaker" /> </p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PT1 Project
