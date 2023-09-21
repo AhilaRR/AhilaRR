@@ -11,10 +11,10 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on GRE 
-- 🌱 I’m currently experimenting with Selenium .
-- 👯 I’m looking to collaborate on good Open Source Projects.
-- 🤔 I’m looking for help with learning Iot and Selenium.
+- 🔭 I’m currently working on ELM
+- 🌱 I’m currently experimenting with ELM, IHP, HASKELL .
+- 👯 I’m looking for summer internship and co-op.
+- 🤔 I’m looking for help with learning IHP, HASKELL and Selenium.
 - 💬 Ask me about general programming and tech stuffs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahila-ramesh-rajamani-a3b487171/)
 - 😄 Pronouns: She/Her
