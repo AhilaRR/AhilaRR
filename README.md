@@ -11,12 +11,12 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on ELM
-- 🌱 I’m currently experimenting with ELM, IHP, HASKELL .
+- 🔭 I’m currently working on Data Analysis Concepts
+- 🌱 I’m currently experimenting with PowerBi, Tableau, Sql .
 - 👯 I’m looking for summer internship and co-op.
-- 🤔 I’m looking for help with learning IHP, HASKELL and Selenium.
+- 🤔 I’m looking for help with learning Data Analysis tools.
 - 💬 Ask me about general programming and tech stuffs.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahila-ramesh-rajamani-a3b487171/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahilarr/)
 - 😄 Pronouns: She/Her
 
 [![Linkedin: ahilarameshrajamani](https://img.shields.io/badge/-ahilarameshrajamani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahila-ramesh-rajamani-a3b487171/)](https://www.linkedin.com/in/ahila-ramesh-rajamani-a3b487171/)
