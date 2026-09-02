@@ -11,10 +11,8 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on Data Analysis Concepts
-- 🌱 I’m currently experimenting with PowerBi, Tableau, Sql .
-- 👯 I’m looking for summer internship and co-op.
-- 🤔 I’m looking for help with learning Data Analysis tools.
+- 🔭 I’m currently working on AI Agents
+- 🌱 I’m currently experimenting with PowerApps, App developement .
 - 💬 Ask me about general programming and tech stuffs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahilarr/)
 - 😄 Pronouns: She/Her
