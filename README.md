@@ -11,8 +11,8 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on AI Agents
-- 🌱 I’m currently experimenting with PowerApps, App developement .
+- 🔭 I’m currently working on building AI Agents
+- 🌱 I’m currently experimenting with PowerApps, App developement and learning french.
 - 💬 Ask me about general programming and tech stuffs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahilarr/)
 - 😄 Pronouns: She/Her
